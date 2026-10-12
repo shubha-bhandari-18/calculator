@@ -1,2 +1,2 @@
-# OIBSIP
-Oasis Infobyte Internship Projects
+# OIBSIP-Calculator
+Calculator Project – Oasis Infobyte Internship Task 1
